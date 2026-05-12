@@ -1,0 +1,21 @@
+{
+  "name": "3D Ludo Pro",
+  "short_name": "Ludo3D",
+  "description": "A high-fidelity 3D Ludo game with real-time physics and emojis.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FBBC04",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3612/3612501.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3612/3612501.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
